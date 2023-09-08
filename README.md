@@ -23,6 +23,8 @@ Join our Telegram channel For More @Malware_Verse
 ![image](https://media.discordapp.net/attachments/961905736139554876/982925324071338014/unknown.png)
 ![image](https://media.discordapp.net/attachments/961905736139554876/982925618377281536/unknown.png)
 
+## Visit Our Shop For More https://malwareverse.mysellix.io/shop
+
 Demo video with [AsyncRat](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) vs Microsoft Defender: https://vimeo.com/717794371
 
 ## Donate
